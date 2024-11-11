@@ -1,0 +1,11 @@
+{
+  "name": "bprm_loader",
+  "description": "Load bin program for monolithic kernel.",
+  "authors": [{
+    "name": "Shi Lei",
+    "email": "shi_lei@massclouds.com"
+  }],
+  "keywords": ["bprm_loader", "monolithic"],
+  "repo": "shilei-massclouds/bprm_loader",
+  "doc_url": "https://github.com/shilei-massclouds/bprm_loader/blob/main/README.md"
+}

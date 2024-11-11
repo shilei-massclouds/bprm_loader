@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+    "bprm_loader",
+    "rt_bprm_loader",
+]
+
+[profile.release]
+lto = true
